@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Guilherme Manassés
+- 👀 I’m interested in game dev career
+- 🌱 I’m currently game programming
+- 📫 You can contact me on linkedin
