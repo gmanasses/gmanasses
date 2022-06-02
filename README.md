@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Guilherme Manassés
+- 🌱 I’m currently programming corporate system to [WEG SA.](https://www.weg.net/)
 - 👀 I’m interested in game dev career
-- 🌱 I’m currently programming corporate system to WEG SA.
+- 🎮 Working nightly on my gaming portfolio, currently on a game called [Cell 86](https://gmanasses.itch.io/arcade-zombie-game)
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
