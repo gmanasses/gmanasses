@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Guilherme Manassés
 - 👀 I’m interested in game dev career
-- 🌱 I’m currently game programming
-- 📫 You can contact me on linkedin
+- 🌱 I’m currently programming corporate system to WEG SA.
+- 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
