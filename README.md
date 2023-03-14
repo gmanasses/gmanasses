@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Guilherme Manassés
 - 👀 I’m searching a company to work in game dev career
-- 🎮 My gaming portfolio on [itch.io](https://gmanasses.itch.io), currently on a game inspired on Flappy Bird
+- 🎮 My gaming portfolio on [itch.io](https://gmanasses.itch.io), currently working on a wave zombie mobile game
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
