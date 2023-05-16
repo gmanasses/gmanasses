@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Guilherme Manassés
 - 👀 I’m searching a company to work in game dev career
-- 🎮 My gaming portfolio on [itch.io](https://gmanasses.itch.io), currently working on a game for (GameJAM Ctrl Alt JAM 2)
+- 🎮 My gaming portfolio on [itch.io](https://gmanasses.itch.io), currently working on my final work of Computer Engineer
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
