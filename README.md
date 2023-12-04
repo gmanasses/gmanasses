@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Guilherme da Cunha Manassés
+- I graduated in computer engineering from the Federal University of Technology - Paraná.
 - 👀 I'm advancing in my career as a game developer
 - 🎮 My portfolio is available at [itch.io](https://gmanasses.itch.io)
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
