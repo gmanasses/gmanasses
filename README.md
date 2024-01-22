@@ -6,7 +6,7 @@
 
 ## 🌐 Socials
 🎮 My portfolio is available at [itch.io](https://gmanasses.itch.io)<br/>
-📫 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
+💬 You can contact me on [Linkedin](https://www.linkedin.com/in/gmanasses/)
 
 
 # 💻 Tech Stack
