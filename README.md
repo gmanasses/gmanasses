@@ -2,7 +2,7 @@
 👨🏻‍🎓 Graduated in computer engineering at the Federal Technological University of Paraná, Brazil <br/>
 🎮 Looking for a job in the field of game programming <br/>
 📚 Learning about Unreal Engine 5 <br/>
-👨🏻‍💻 Working alone on a PC game <br/>
+👨🏻‍💻 Working alone on a Mobile game <br/>
 
 ## 🌐 Socials
 🎮 My portfolio is available at [itch.io](https://gmanasses.itch.io)<br/>
