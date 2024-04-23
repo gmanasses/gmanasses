@@ -1,6 +1,6 @@
 #  Hello World, I'm Guilherme da Cunha Manassés
 👨🏻‍🎓 Graduated in computer engineering at the Federal Technological University of Paraná, Brazil <br/>
-🎮 Looking for a job in the field of game programming <br/>
+🎮 Working on Hero Create with UEFN <br/>
 📚 Learning about Unreal Engine 5 <br/>
 👨🏻‍💻 Working alone on a Mobile game <br/>
 
